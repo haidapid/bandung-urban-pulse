@@ -27,7 +27,7 @@ Tema IoT dipilih karena saya pernah magang sebagai IoT Engineer, sehingga alur d
 | **2. Detak Stasiun** | Detail satu stasiun (drill-through) | Profil stasiun, gauge kemandirian surya, tren PM2.5 harian, scatter lalu lintas vs kebisingan, tabel ringkasan bulanan dengan sparkline |
 | **3. Jejak Insiden** | Analisis peringatan sensor | Heatmap jam × hari, waktu penanganan (MTTR) per severity, alert per bulan, tabel detail insiden |
 
-![Halaman 2 - Detak Stasiun](images/halaman-2-detak-stasiun.png)
+![Halaman 2 - Detak Stasiun](Halaman%202%20Detak%20Stasiun.png)
 ![Halaman 3 - Jejak Insiden](Halaman%203%20Jejak%20Insiden.png)
 
 **Cara memakai:** pada Halaman 1, klik kanan satu stasiun (misalnya batang "Gedebage") → *Drill through* → *Detak Stasiun*. Gunakan tombol **← Kembali** untuk pulang ke halaman awal.
