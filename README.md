@@ -4,7 +4,7 @@ Dashboard Power BI 3 halaman yang memantau **kualitas udara, kebisingan, energi 
 
 > **Catatan penting:** seluruh data adalah **data simulasi** yang saya buat untuk latihan dan portofolio. Angka dan lokasi stasiun **bukan** hasil pengukuran asli, jadi jangan dipakai sebagai acuan kondisi udara Bandung yang sebenarnya.
 
-![Halaman 1 - Denyut Kota](images/halaman-1-denyut-kota.png)
+![Halaman 1 - Denyut Kota](images/Halaman_1_Denyut_Kota.png)
 
 ---
 
